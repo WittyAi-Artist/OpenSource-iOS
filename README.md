@@ -20,8 +20,8 @@
 [back to top](#readme) <br>
 *tvOS view controllers, wrappers, template managers, video players, libraries and applications.*
 
-- [Apple TV Homescreen (Experimentel)] (https://github.com/marcreichel/apple-tv) - This is an experimental implementation of my apple-tv-card project.
-- [Apple TV Card] (https://github.com/marcreichel/apple-tv-card) - An Apple TV Card with hover animation and parallax effect.
+- [Apple TV Homescreen (Experimentel)](https://github.com/marcreichel/apple-tv) - This is an experimental implementation of my apple-tv-card project.
+- [Apple TV Card](https://github.com/marcreichel/apple-tv-card) - An Apple TV Card with hover animation and parallax effect.
 - [BrowserTV](https://github.com/zats/BrowserTV) - Turn your Apple TV into a dashboard displaying any webpage!
 - [FocusTvButton](https://github.com/dcordero/FocusTvButton) - Light wrapper of UIButton that allows extra customization for tvOS
 - [ParallaxView](https://github.com/PGSSoft/ParallaxView) - iOS controls and extensions that add parallax effect to your application.
