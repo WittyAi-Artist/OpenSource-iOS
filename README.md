@@ -1,7 +1,7 @@
 
 <div width="100%" align="center">
 	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
-	<a href="https://travis-ci.org/vsouza/awesome-ios"><img alt="Build Status" src="https://api.travis-ci.org/vsouza/awesome-ios.svg?branch=master" /></a>
+	<img src="<img src="https://img.shields.io/badge/Projects-1-green.svg">">
 	<img src="https://img.shields.io/badge/Projects-1-green.svg">
 	<img src="https://img.shields.io/badge/Updated-June%2020,%202022-lightgrey.svg">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=WittyAi-Artist.OpenSource-iOS">
@@ -15,7 +15,7 @@
 
 ## Apple TV 
  
-[back to top](#readme) 
+[back to top](#readme) <br>
 *tvOS view controllers, wrappers, template managers and video players.*
 
 - [Voucher](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
