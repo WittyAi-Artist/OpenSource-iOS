@@ -1,12 +1,12 @@
 <p align=center>
   <div align=center>
-	<img src="images/Adult-WittyAi-Dabb-1000.png" width="100" height="100"/>
+	<img src="https://github.com/WittyAi-Artist/WittyAi-Artist/blob/main/images/Adult-WittyAi-Dabb-1000.png" width="100" height="100"/>
 	<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
 	<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
 	<img src="https://img.shields.io/badge/Projects-15-green.svg">
 	<img src="https://img.shields.io/badge/Updated-June%2020,%202022-lightgrey.svg">
 	<img src="https://visitor-badge.laobi.icu/badge?page_id=WittyAi-Artist.OpenSource-iOS">
-  	<img src="images/Adult-WittyAi-Hi-1000.png" width="100" height="100"/>
+  	<img src="https://github.com/WittyAi-Artist/WittyAi-Artist/blob/main/images/Adult-WittyAi-Hi-1000.png" width="100" height="100"/>
   </div>
 </p>
 
